@@ -7,19 +7,18 @@ Focused on writing clean, maintainable, and scalable code.
 
 ##  Tech Stack
 
-- JavaScript / TypeScript
-- React / Next.js
-- Tailwind CSS
-- Python
-- Git & GitHub
+Frontend: TypeScript, React, Next.js, Tailwind CSS
+Backend: Node.js, Express.js, PostgreSQL, Prisma, REST APIs
+DevOps: GitHub Actions, PM2, Nginx, DigitalOcean, Docker basics
+Other: Python, Redis, Git
 
 ---
 
-##  Current Focus
+## Current Focus
 
-- Advanced React patterns
-- Backend development
-- System design fundamentals
-- Exploring AI integration in web apps
+
+Full-stack development (Next.js + Express)
+System design fundamentals
+AI integration in web apps
 
 
