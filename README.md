@@ -8,8 +8,11 @@ Focused on writing clean, maintainable, and scalable code.
 ##  Tech Stack
 
 Frontend: TypeScript, React, Next.js, Tailwind CSS
+
 Backend: Node.js, Express.js, PostgreSQL, Prisma, REST APIs
+
 DevOps: GitHub Actions, PM2, Nginx, DigitalOcean, Docker basics
+
 Other: Python, Redis, Git
 
 ---
