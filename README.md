@@ -1,6 +1,6 @@
 # Hi, I'm Kay 👋
 
-Frontend Developer | ICT Student at Krirk University (Thailand)
+Full Stack Developer | ICT Student at Krirk University (Thailand)
 
 I build modern, responsive web applications using React and Next.js.  
 Focused on writing clean, maintainable, and scalable code.
