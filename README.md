@@ -14,4 +14,4 @@ I build modern web applications with React, Next.js, Node.js, and PostgreSQL.
 
 ### Find me on
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL) · [YouTube](YOUR_YOUTUBE_URL) · [Facebook](YOUR_FACEBOOK_URL)
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/kay-thadar-soe-raphtalia-kay/)) 
