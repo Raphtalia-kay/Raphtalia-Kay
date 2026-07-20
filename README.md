@@ -1,27 +1,68 @@
-# Hi, I'm Kay 👋
+# Hi, I’m Kay 👋
 
-Full Stack Developer | ICT Student at Krirk University (Thailand)
+**Full-Stack Developer | ICT Student at Krirk University, Thailand**
 
-I build modern, responsive web applications using React and Next.js.  
-Focused on writing clean, maintainable, and scalable code.
+I’m a full-stack developer passionate about building modern, responsive, and scalable web applications.
 
-##  Tech Stack
+I mainly work with **React, Next.js, TypeScript, Node.js, and PostgreSQL**, with a strong focus on clean architecture, maintainable code, and user-friendly interfaces.
 
-Frontend: TypeScript, React, Next.js, Tailwind CSS
+I’m also interested in backend systems, cloud deployment, AI-powered applications, and modern software development practices.
 
-Backend: Node.js, Express.js, PostgreSQL, Prisma, REST APIs
+## 💻 Tech Stack
 
-DevOps: GitHub Actions, PM2, Nginx, DigitalOcean, Docker basics
+### Frontend
 
-Other: Python, Redis, Git
+* TypeScript
+* React
+* Next.js
+* Tailwind CSS
+* TanStack Query
+* Shadcn UI
 
----
+### Backend
 
-## Current Focus
+* Node.js
+* Express.js
+* PostgreSQL
+* Prisma ORM
+* REST APIs
+* JWT Authentication
+* Redis
 
+### DevOps and Tools
 
-Full-stack development (Next.js + Express)
-System design fundamentals
-AI integration in web apps
+* Git and GitHub
+* GitHub Actions
+* Docker
+* PM2
+* Nginx
+* DigitalOcean
+* Vercel
 
+### Other Technologies
 
+* Python
+* JavaScript
+* HTML and CSS
+* Keycloak
+* LangChain and LangGraph
+
+## 🚀 Current Focus
+
+* Building full-stack applications with Next.js and Express
+* Learning system design and scalable backend architecture
+* Integrating AI features into web applications
+* Improving DevOps, deployment, and CI/CD skills
+* Developing the BrightCoders Academy learning platform
+
+## 🌱 Currently Learning
+
+* Advanced Next.js and backend architecture
+* Docker and CI/CD workflows
+* Authentication and authorization systems
+* AI agents and multi-agent systems
+* Cloud infrastructure and application deployment
+
+## 🤝 Let’s Connect
+
+I’m open to collaborating on web development, educational technology, and AI-powered application projects.
