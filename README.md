@@ -12,48 +12,25 @@ I’m also interested in backend systems, cloud deployment, AI-powered applicati
 
 ### Frontend
 
-* TypeScript
-* React
-* Next.js
-* Tailwind CSS
-* TanStack Query
-* Shadcn UI
+`TypeScript` · `React` · `Next.js` · `Tailwind CSS` · `TanStack Query` · `Shadcn UI`
 
 ### Backend
 
-* Node.js
-* Express.js
-* PostgreSQL
-* Prisma ORM
-* REST APIs
-* JWT Authentication
-* Redis
+`Node.js` · `Express.js` · `PostgreSQL` · `Prisma ORM` · `REST APIs` · `JWT Authentication` · `Redis`
 
 ### DevOps and Tools
 
-* Git and GitHub
-* GitHub Actions
-* Docker
-* PM2
-* Nginx
-* DigitalOcean
-* Vercel
+`Git` · `GitHub` · `GitHub Actions` · `Docker` · `PM2` · `Nginx` · `DigitalOcean` · `Vercel`
 
 ### Other Technologies
 
-* Python
-* JavaScript
-* HTML and CSS
-* Keycloak
-* LangChain and LangGraph
+`Python` · `JavaScript` · `HTML` · `CSS` · `Keycloak` · `LangChain` · `LangGraph`
 
 ## 🚀 Current Focus
 
-* Building full-stack applications with Next.js and Express
-* Learning system design and scalable backend architecture
-* Integrating AI features into web applications
-* Improving DevOps, deployment, and CI/CD skills
-* Developing the BrightCoders Academy learning platform
+`Full-Stack Development` · `System Design` · `AI Integration` · `Backend Architecture` · `DevOps`
+
+
 
 ## 🌱 Currently Learning
 
