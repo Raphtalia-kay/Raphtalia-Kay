@@ -12,7 +12,5 @@ I build modern web applications with React, Next.js, Node.js, and PostgreSQL.
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express,postgres,prisma,docker,git" />
 </p>
 
-### Find me on
 
-[LinkedIn]([https://www.linkedin.com/in/kay-thadar-soe-raphtalia-kay/]) 
 
